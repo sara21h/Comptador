@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Comptador</string>
+    <string name="timeText">Temps disponible:%1$d</string>
     <string name="touchme">Tocam</string>
     <style name="Base.Theme.Comptador" parent="Theme.Material3.DayNight.NoActionBar">
         
