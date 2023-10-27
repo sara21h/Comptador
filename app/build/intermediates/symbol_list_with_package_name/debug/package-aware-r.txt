@@ -3573,6 +3573,7 @@ string close_sheet
 string default_error_message
 string default_popup_window_title
 string dropdown_menu
+string endGame
 string error_a11y_label
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
