@@ -2922,7 +2922,6 @@ int id bounce 0x7f080062
 int id bounceBoth 0x7f080063
 int id bounceEnd 0x7f080064
 int id bounceStart 0x7f080065
-int id button 0x7f0801fc
 int id buttonPanel 0x7f080066
 int id cache_measures 0x7f080067
 int id callMeasure 0x7f080068
@@ -2958,6 +2957,7 @@ int id contiguous 0x7f080085
 int id continuousVelocity 0x7f080086
 int id coordinator 0x7f080087
 int id cos 0x7f080088
+int id counterTextView 0x7f0801ff
 int id counterclockwise 0x7f080089
 int id cradle 0x7f08008a
 int id currentState 0x7f08008b
@@ -3272,6 +3272,7 @@ int id tag_transition_group 0x7f0801bf
 int id tag_unhandled_key_event_manager 0x7f0801c0
 int id tag_unhandled_key_listeners 0x7f0801c1
 int id tag_window_insets_animation_callback 0x7f0801c2
+int id tapMeButton 0x7f080200
 int id text 0x7f0801c3
 int id text2 0x7f0801c4
 int id textEnd 0x7f0801c5
@@ -3279,8 +3280,6 @@ int id textSpacerNoButtons 0x7f0801c6
 int id textSpacerNoTitle 0x7f0801c7
 int id textStart 0x7f0801c8
 int id textTop 0x7f0801c9
-int id textView 0x7f0801fd
-int id textView2 0x7f0801fe
 int id text_input_end_icon 0x7f0801ca
 int id text_input_error_icon 0x7f0801cb
 int id text_input_start_icon 0x7f0801cc
@@ -3291,6 +3290,7 @@ int id textinput_placeholder 0x7f0801d0
 int id textinput_prefix_text 0x7f0801d1
 int id textinput_suffix_text 0x7f0801d2
 int id time 0x7f0801d3
+int id timeTextView 0x7f080201
 int id title 0x7f0801d4
 int id titleDividerNoCustom 0x7f0801d5
 int id title_template 0x7f0801d6
@@ -3701,6 +3701,7 @@ int string tab 0x7f0f00b1
 int string template_percent 0x7f0f00b2
 int string tooltip_description 0x7f0f00b3
 int string tooltip_label 0x7f0f00b4
+int string touchme 0x7f0f00b5
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001
 int style Animation_AppCompat_Dialog 0x7f100002

@@ -4,13 +4,14 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-id button
-id textView
-id textView2
+id counterTextView
+id tapMeButton
+id timeTextView
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string touchme
 style Base.Theme.Comptador
 style Theme.Comptador
 xml backup_rules

@@ -1,6 +1,5 @@
 package me.sarabogdan.dam.comptador
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 
