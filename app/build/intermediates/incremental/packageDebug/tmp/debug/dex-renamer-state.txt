@@ -1,4 +1,4 @@
-#Thu Oct 26 21:28:57 CEST 2023
+#Fri Oct 27 15:53:18 CEST 2023
 base.0=/home/alumne/AndroidStudioProjects/Comptador/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/alumne/AndroidStudioProjects/Comptador/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/home/alumne/AndroidStudioProjects/Comptador/app/build/intermediates/dex/debug/mergeProjectDexDebug/10/classes.dex
