@@ -9,15 +9,17 @@ import androidx.activity.ComponentActivity
 
 class MainActivity : ComponentActivity() {
 
+    private val INITIAL_TIME = 3
+
     internal lateinit var tapMeButton : Button
     internal lateinit var counterTextView : TextView
     internal lateinit var timeTextView : TextView
     internal var counter = 0
-    internal var time = 10
+    internal var time =  INITIAL_TIME
 
     internal var appStarted = false
     internal lateinit var countdownTimer : CountDownTimer
-    internal val initialCountDownTimer : Long = 60000
+    internal val initialCountDownTimer : Long = time.toLong()*1000
     internal val intervalCountDownTimer : Long = 1000
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -63,11 +65,15 @@ class MainActivity : ComponentActivity() {
     }
 
     private fun endGame(){
-        Toast.makeText(this,getString(R.string.endGame), Toast.LENGTH_LONG).show()
+        Toast.makeText(this, getString(R.string.endGame), Toast.LENGTH_LONG).show()
         resetGame()
     }
 
     private fun resetGame(){
-
+        counter = 0
+        timeTextView.text = time.toString()
+        time = INITIAL_TIME
+        initCountdown()
+        appStarted = false
     }
 }
