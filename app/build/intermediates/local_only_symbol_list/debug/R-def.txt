@@ -1,16 +1,26 @@
 R_DEF: Internal format may change without notice
 local
-color black
-color white
+anim blink
+anim fade
+color blanc
+color gris
+color lila_clar
+color lila_fosc
+drawable boto
 drawable ic_launcher_background
-drawable ic_launcher_foreground
+drawable ic_stat_name
+font font
+font quicksand
+font quicksand2
 id counterTextView
 id tapMeButton
 id timeTextView
 layout activity_main
+mipmap ic_channel
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string counterText
 string endGame
 string timeText
 string touchme

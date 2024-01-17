@@ -1,5 +1,61 @@
 [
     {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-anydpi-v26_ic_channel.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-anydpi-v26/ic_channel.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/font_quicksand.ttf.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/font/quicksand.ttf"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/anim_blink.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/anim/blink.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable-anydpi_ic_stat_name.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable-anydpi/ic_stat_name.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/font_font.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/font/font.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/font_quicksand2.ttf.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/font/quicksand2.ttf"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable_ic_stat_name.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable/ic_stat_name.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable_boto.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable/boto.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/anim_zoom.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/anim/zoom.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.sarabogdan.dam.comptador.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
         "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-mdpi/ic_launcher.webp"
     },
@@ -8,20 +64,24 @@
         "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/anim_zoomout.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/anim/zoomout.xml"
+    },
+    {
         "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
         "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable-xxhdpi/ic_stat_name.png"
     },
     {
         "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable-mdpi_ic_stat_name.png.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable-mdpi/ic_stat_name.png"
     },
     {
         "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
@@ -44,24 +104,36 @@
         "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable_ic_channel_background.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable/ic_channel_background.xml"
     },
     {
-        "merged": "me.sarabogdan.dam.comptador.app-merged_res-49:/layout_activity_main.xml.flat",
-        "source": "me.sarabogdan.dam.comptador.app-main-51:/layout/activity_main.xml"
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xhdpi_ic_channel.png.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xhdpi/ic_channel.png"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
         "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable_ic_launcher_foreground.xml.flat",
         "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/anim_fade.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/anim/fade.xml"
     },
     {
-        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable-xhdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable-hdpi_ic_stat_name.png.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable-hdpi/ic_stat_name.png"
+    },
+    {
+        "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/drawable_ic_channel_foreground.xml.flat",
+        "source": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-main-51:/drawable/ic_channel_foreground.xml"
     },
     {
         "merged": "/home/alumne/.gradle/daemon/8.0/me.sarabogdan.dam.comptador.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
